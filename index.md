@@ -1,6 +1,10 @@
 # Perpustakaan Digital
-Nama: Fazli Abbyaz Tafazul Kusuma 
-NIM: 13040124140112
+
+## Identitas
+
+- **Nama:** Fazli Abbyaz Tafazul Kusuma
+- **NIM:** 13040124140112
+
 Selamat datang di Perpustakaan Digital.
 
 ## Koleksi
