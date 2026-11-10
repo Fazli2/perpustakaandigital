@@ -19,7 +19,7 @@ Selamat datang di Perpustakaan Digital.
 8. [Dracula](ebook/08_Dracula.pdf) — Bram Stoker (1897)
 9. [The Strange Case of Dr. Jekyll and Mr. Hyde](ebook/09_The_Strange_Case_of_Dr_Jekyll_and_Mr_Hyde.pdf) — Robert Louis Stevenson (1886)
 10. [The War of the Worlds](ebook/10_The_War_of_the_Worlds.pdf) — H. G. Wells (1895–1897, ditulis)
-11. [Rangkuman Kuliah Tamu: Transforming Libraries Through Information Technology](ebook/11_Rangkuman_Kuliah_Tamu_Transforming_Libraries_Through_Information_Technology.pdf) — Fazli Abbyaz Tafazul Kusuma (2026)
+11. [Rangkuman UGC](ebook/Rangkuman_UGC.pdf) — Fazli Abbyaz Tafazul Kusuma (2026)
 
 ---
 *Powered by GitHub Pages*
